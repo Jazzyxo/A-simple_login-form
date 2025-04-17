@@ -20,8 +20,9 @@ This is a basic **login form** built using **HTML** and **CSS** only. It provide
 
 ## 📸 Preview
 
-> *(Optional)* Include a screenshot here if you have one:
-> ![Screenshot](screenshot.png)
+
+> ![Screenshot](![Screenshot 2025-04-17 120950](https://github.com/user-attachments/assets/a7b61065-6955-459a-a281-b7282213883e)
+)
 
 ## 📝 Usage
 
@@ -36,6 +37,6 @@ This is a basic **login form** built using **HTML** and **CSS** only. It provide
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Jasmine Hano
 
 
